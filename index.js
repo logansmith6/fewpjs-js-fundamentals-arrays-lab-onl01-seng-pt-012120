@@ -1,5 +1,6 @@
 // Write your solution here!
- pets.push('Odie');
+const pets = [];
+pets.push('Odie');
 pets.unshift('Ollie');
 pets.pop;
 pets.shift();
