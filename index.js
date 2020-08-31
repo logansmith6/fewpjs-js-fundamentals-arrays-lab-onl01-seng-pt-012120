@@ -1,5 +1,5 @@
 // Write your solution here!
-pets.push('Odie');
+append = pets.push('Odie');
 pets.unshift('Ollie');
 pets.pop;
 pets.shift();
